@@ -1,4 +1,4 @@
-# one-piece
+# One Piece fan site
 This is a draft of what is going to be a One Piece web fansite. It will be build using Symfony framework, jQuery library and a Mongo database.
 Please be tolerant as it is one of my first Symfony website.
 
